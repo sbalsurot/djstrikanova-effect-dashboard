@@ -647,6 +647,7 @@ export default {
         code: process.env.proposalContract,
         scope: process.env.proposalContract,
         table: 'proposal',
+        limit:100,
         key_type: 'i64',
         index_position: 3,
         lower_bound: targetCycleID,
