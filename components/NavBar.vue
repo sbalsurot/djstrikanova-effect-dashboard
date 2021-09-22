@@ -27,34 +27,34 @@
                 Home
               </nuxt-link>
             </div>
-            <div @click="mobileMenu = false">
-              <nuxt-link class="navbar-item" to="/stake" exact-active-class="is-active">
-                Stake
-              </nuxt-link>
-            </div>
-            <div @click="mobileMenu = false">
-              <nuxt-link class="navbar-item" to="/proposals" exact-active-class="is-active">
-                Proposals
-              </nuxt-link>
-            </div>
-            <div @click="mobileMenu = false">
-              <nuxt-link class="navbar-item" to="/dao" exact-active-class="is-active">
-                DAO
-              </nuxt-link>
-            </div>
-            <div @click="mobileMenu = false">
-              <nuxt-link class="navbar-item" to="/token" exact-active-class="is-active">
-                Token Map
-              </nuxt-link>
-            </div>
-            <div @click="mobileMenu = false">
-              <nuxt-link class="navbar-item" to="/distribution" exact-active-class="is-active">
-                Rewards
-              </nuxt-link>
-            </div>
+<!--            <div @click="mobileMenu = false">-->
+<!--              <nuxt-link class="navbar-item" to="/stake" exact-active-class="is-active">-->
+<!--                Stake-->
+<!--              </nuxt-link>-->
+<!--            </div>-->
+<!--            <div @click="mobileMenu = false">-->
+<!--              <nuxt-link class="navbar-item" to="/proposals" exact-active-class="is-active">-->
+<!--                Proposals-->
+<!--              </nuxt-link>-->
+<!--            </div>-->
+<!--            <div @click="mobileMenu = false">-->
+<!--              <nuxt-link class="navbar-item" to="/dao" exact-active-class="is-active">-->
+<!--                DAO-->
+<!--              </nuxt-link>-->
+<!--            </div>-->
+<!--            <div @click="mobileMenu = false">-->
+<!--              <nuxt-link class="navbar-item" to="/token" exact-active-class="is-active">-->
+<!--                Token Map-->
+<!--              </nuxt-link>-->
+<!--            </div>-->
+<!--            <div @click="mobileMenu = false">-->
+<!--              <nuxt-link class="navbar-item" to="/distribution" exact-active-class="is-active">-->
+<!--                Rewards-->
+<!--              </nuxt-link>-->
+<!--            </div>-->
             <div @click="mobileMenu = false">
               <nuxt-link class="navbar-item" to="/calculator" exact-active-class="is-active">
-                Calculator
+                DJSTRIKANOVA's Calculator Tool
               </nuxt-link>
             </div>
           </div>
