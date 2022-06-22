@@ -11,7 +11,7 @@ export default {
 
   // Production
   env: {
-    eosNodeUrl: 'eos.greymass.com',
+    eosNodeUrl: 'eos.newdex.one',
     protocolUrl: 'https',
     portUrl: '443',
     eosChainId: 'aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906',
